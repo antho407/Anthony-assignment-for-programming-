@@ -1,0 +1,18 @@
+//a program that accepts two integers and calculates the product from user
+# include <stdio.h>
+int main ()
+{
+    int a;
+    int b;
+   
+    int product;
+    printf("enter the value of a\n:");
+    scanf("%d",&a);
+    printf("enter the value of b\n:");
+    scanf("%d",&b);
+    product=a*b;
+    printf("%d",product);
+    return 0;
+    }
+    
+

@@ -1,0 +1,16 @@
+//a program to find the sum  five number s
+# include <stdio.h>
+int main ()
+{
+    int a=2;
+    int b=2;
+    int c=2;
+    int d=2;
+    int e=3;
+    int sum;
+    sum=a+b+c+d+e;
+    printf("sum of five number is%d",sum);
+    return 0;
+    }
+    
+

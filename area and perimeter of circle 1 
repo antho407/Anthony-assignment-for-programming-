@@ -1,0 +1,17 @@
+//a program to find the volume of a sphere 
+# include <stdio.h>
+#define Pi 3.142*1.333
+int main ()
+{
+    int r=14;
+    float  volume;
+    volume=3.142*1.333*14*14*14;
+    printf("the radius of a circle is %d\n",r);
+    scanf("%d",&r);
+printf("the volume of a sphere  %f\n", volume);
+scanf("%d",&r);
+
+ return 0;
+
+}
+
